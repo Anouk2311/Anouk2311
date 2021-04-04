@@ -11,6 +11,8 @@
   - Online Data Collection & Management
   - Data Preparation & Workflow Management
 
+-----
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anouk2311&hide=prs&count_private=true&show_icons=true" />
 </a>
