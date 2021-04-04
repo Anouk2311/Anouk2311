@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm Anouk Heemskerk!
+### I'm Anouk!
 
 - 🎓 Student MSc Marketing Analytics and MSc Data Science & Society at Tilburg University
 - 🌱 Currently learning:
@@ -10,7 +10,6 @@
   - Business Intelligence & Data Management
   - Online Data Collection & Management
   - Data Preparation & Workflow Management
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anouk2311&hide=prs&count_private=true&show_icons=true" />
