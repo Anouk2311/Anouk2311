@@ -11,11 +11,6 @@
   - Online Data Collection & Management
   - Data Preparation & Workflow Management
 
-
-<a href="https://www.linkedin.com/in/anoukheemskerk/?locale=en_US/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
 -----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -23,4 +18,10 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anouk2311&layout=compact" />
+</a>
+
+-----
+
+<a href="https://www.linkedin.com/in/anoukheemskerk/">
+  <img align="middle" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
