@@ -11,26 +11,16 @@
   - Online Data Collection & Management
   - Data Preparation & Workflow Management
 
+
+<a href="https://www.linkedin.com/in/anoukheemskerk/?locale=en_US/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
 -----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anouk2311&hide=prs&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anouk2311&hide=prs&count_private=true&show_icons=true&custom_title=Anouk%27s%20GitHub%20Stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anouk2311&layout=compact" />
 </a>
-
-<!--
-**Anouk2311/Anouk2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
