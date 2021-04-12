@@ -5,11 +5,14 @@
 ### I'm Anouk!
 
 - 🎓 Student MSc Marketing Analytics and MSc Data Science & Society at Tilburg University
-- 🌱 Currently learning:
-  - Data Mining for Business and Governance
-  - Business Intelligence & Data Management
-  - Online Data Collection & Management
-  - Data Preparation & Workflow Management
+- 🏫 Current courses:
+  - Interactive Data Transformation
+  - Social Media and Web Analytics
+  - Experimental Research
+- 🌱 Currently teaching myself:
+  - Tableau
+  - Building Shiny apps
+  - Norwegian 🇳🇴
 
 -----
 
